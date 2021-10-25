@@ -1,4 +1,4 @@
-#FUNCIONES-PHP
+# FUNCIONES-PHP
 ```php
 <?php
 
